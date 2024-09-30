@@ -19,10 +19,10 @@ export const Home = () => {
         <a href='https://drive.google.com/file/d/19NE5xIK6dql0AqEYStg6_-kLqNcD54at/view?usp=drivesdk' className='link mx-3' target='blank'> Download CV</a>
         </div>
         <div className='social_link mt-5'>
-          <a href='mailto:raghulkrish2002@gmail.com' className='Social mx-3'><FaEnvelope/></a>
-          <a href='https://www.linkedin.com/in/raghul-krishna-b-909418253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' className='Social mx-3'><FaLinkedinIn/></a>
-          <a href='https://github.com/raghul030302' className='Social mx-3'><FaGithub /></a>
-          <a href='https://www.instagram.com/krish_editz1?igsh=MW1rZXZ6NGR1YXpueQ==' className='Social mx-3'><FaInstagram/></a>
+          <a href='mailto:raghulkrish2002@gmail.com' className='Social mx-3' target='blank'><FaEnvelope/></a>
+          <a href='https://www.linkedin.com/in/raghul-krishna-b-909418253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' className='Social mx-3' target='blank'><FaLinkedinIn/></a>
+          <a href='https://github.com/raghul030302' className='Social mx-3' target='blank'><FaGithub /></a>
+          <a href='https://www.instagram.com/krish_editz1?igsh=MW1rZXZ6NGR1YXpueQ==' className='Social mx-3' target='blank'><FaInstagram/></a>
         </div>
       </div>
     </div>
