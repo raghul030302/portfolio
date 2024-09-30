@@ -16,7 +16,7 @@ export const Home = () => {
         <h1 className="name">Raghul Krishna B</h1>
         <p className='role '>{role}<span className='cursor'><Cursor /></span></p>
         <div className='Links mt-4'>
-        <a href='https://drive.google.com/file/d/1F3ddBHBsU1iQAx18FbXwqrwGVYU2MG2l/view?usp=drive_link' className='link mx-3' target='blank'> Download CV</a>
+        <a href='https://drive.google.com/file/d/19NE5xIK6dql0AqEYStg6_-kLqNcD54at/view?usp=drivesdk' className='link mx-3' target='blank'> Download CV</a>
         </div>
         <div className='social_link mt-5'>
           <a href='mailto:raghulkrish2002@gmail.com' className='Social mx-3'><FaEnvelope/></a>
